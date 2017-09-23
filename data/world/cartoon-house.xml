@@ -2,12 +2,6 @@
 <houses>
 	<house name="House 01" houseid="1" entryx="238" entryy="221" entryz="7" rent="100" townid="1" size="40" />
 	<house name="House 02" houseid="2" entryx="237" entryy="236" entryz="7" rent="0" townid="1" size="67" />
-	<house name="" houseid="125" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="3" />
-	<house name="" houseid="144" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="3" />
-	<house name="" houseid="152" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="6" />
-	<house name="" houseid="1726" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="0" />
-	<house name="" houseid="2673" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="8" />
-	<house name="" houseid="2680" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="11" />
 	<house name="Unnamed House #2702" houseid="2702" entryx="292" entryy="863" entryz="7" rent="0" townid="17" size="20" />
 	<house name="Unnamed House #2703" houseid="2703" entryx="276" entryy="862" entryz="7" rent="0" townid="17" size="34" />
 	<house name="Unnamed House #2704" houseid="2704" entryx="298" entryy="863" entryz="6" rent="0" townid="17" size="29" />
