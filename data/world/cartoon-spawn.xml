@@ -1413,6 +1413,7 @@
 		<monster name="Deer" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="938" centery="214" centerz="7" radius="1" />
+	<spawn centerx="251" centery="215" centerz="7" radius="1" />
 	<spawn centerx="908" centery="216" centerz="7" radius="5" />
 	<spawn centerx="922" centery="219" centerz="7" radius="1" />
 	<spawn centerx="933" centery="224" centerz="7" radius="2">
@@ -1431,6 +1432,8 @@
 	<spawn centerx="1596" centery="436" centerz="7" radius="1">
 		<monster name="Yellow Butterfly" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="966" centery="453" centerz="7" radius="1" />
+	<spawn centerx="955" centery="456" centerz="7" radius="1" />
 	<spawn centerx="294" centery="832" centerz="7" radius="1" />
 	<spawn centerx="261" centery="844" centerz="7" radius="1">
 		<npc name="Elane" x="0" y="0" z="7" spawntime="60" />
