@@ -1413,7 +1413,6 @@
 		<monster name="Deer" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="938" centery="214" centerz="7" radius="1" />
-	<spawn centerx="251" centery="215" centerz="7" radius="1" />
 	<spawn centerx="908" centery="216" centerz="7" radius="5" />
 	<spawn centerx="922" centery="219" centerz="7" radius="1" />
 	<spawn centerx="933" centery="224" centerz="7" radius="2">
