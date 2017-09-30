@@ -1061,8 +1061,8 @@
 	<spawn centerx="311" centery="206" centerz="6" radius="1">
 		<npc name="Captain Cartoon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="250" centery="207" centerz="6" radius="1">
-		<npc name="Compra Tudo" x="0" y="0" z="6" spawntime="60" />
+	<spawn centerx="251" centery="207" centerz="6" radius="1">
+		<npc name="Benjamin" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="857" centery="211" centerz="6" radius="1">
 		<npc name="Captain Cartoon" x="0" y="-1" z="6" spawntime="60" />
@@ -1446,10 +1446,11 @@
 		<monster name="Deer" x="-17" y="1" z="7" spawntime="60" />
 		<monster name="Red Butterfly" x="6" y="8" z="7" spawntime="60" />
 		<monster name="Deer" x="-19" y="12" z="7" spawntime="60" />
+		<monster name="Blue Butterfly" x="5" y="12" z="7" spawntime="60" />
 		<monster name="Deer" x="8" y="13" z="7" spawntime="60" />
 		<monster name="Deer" x="-8" y="14" z="7" spawntime="60" />
-		<monster name="Blue Butterfly" x="4" y="20" z="7" spawntime="60" />
-		<monster name="Deer" x="1" y="22" z="7" spawntime="60" />
+		<npc name="Queen Eloise" x="5" y="18" z="7" spawntime="60" />
+		<monster name="Deer" x="-11" y="19" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="938" centery="214" centerz="7" radius="1" />
 	<spawn centerx="908" centery="216" centerz="7" radius="5" />
@@ -1465,8 +1466,8 @@
 	</spawn>
 	<spawn centerx="922" centery="219" centerz="7" radius="1" />
 	<spawn centerx="332" centery="221" centerz="7" radius="30">
-		<monster name="Deer" x="-15" y="12" z="7" spawntime="60" />
-		<monster name="Deer" x="-10" y="27" z="7" spawntime="60" />
+		<monster name="Deer" x="-2" y="21" z="7" spawntime="60" />
+		<monster name="Deer" x="0" y="23" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="256" centery="224" centerz="7" radius="30">
 		<monster name="Red Butterfly" x="1" y="0" z="7" spawntime="60" />
@@ -1477,9 +1478,8 @@
 		<monster name="Dog" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="314" centery="243" centerz="7" radius="30">
-		<monster name="Deer" x="-25" y="7" z="7" spawntime="60" />
-		<monster name="Blue Butterfly" x="-22" y="7" z="7" spawntime="60" />
-		<monster name="Deer" x="-7" y="13" z="7" spawntime="60" />
+		<monster name="Deer" x="-27" y="23" z="7" spawntime="60" />
+		<monster name="Blue Butterfly" x="-28" y="29" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="174" centery="260" centerz="7" radius="30">
 		<monster name="Yellow Butterfly" x="-13" y="-11" z="7" spawntime="60" />
@@ -1503,7 +1503,6 @@
 		<monster name="Deer" x="13" y="22" z="7" spawntime="60" />
 		<monster name="Deer" x="-26" y="25" z="7" spawntime="60" />
 		<monster name="Deer" x="-7" y="26" z="7" spawntime="60" />
-		<monster name="Deer" x="27" y="26" z="7" spawntime="60" />
 		<monster name="Deer" x="13" y="27" z="7" spawntime="60" />
 		<monster name="Blue Butterfly" x="15" y="29" z="7" spawntime="60" />
 	</spawn>
@@ -1514,21 +1513,9 @@
 		<monster name="Deer" x="12" y="8" z="7" spawntime="60" />
 		<monster name="Deer" x="3" y="17" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="204" centery="308" centerz="7" radius="30">
-		<monster name="Deer" x="19" y="4" z="7" spawntime="60" />
-		<monster name="Purple Butterfly" x="18" y="6" z="7" spawntime="60" />
-		<monster name="Deer" x="10" y="25" z="7" spawntime="60" />
-		<monster name="Blue Butterfly" x="4" y="29" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="235" centery="308" centerz="7" radius="30">
-		<monster name="Deer" x="24" y="-3" z="7" spawntime="60" />
-		<monster name="Deer" x="2" y="4" z="7" spawntime="60" />
-		<monster name="Deer" x="4" y="21" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="204" centery="308" centerz="7" radius="30" />
 	<spawn centerx="272" centery="308" centerz="7" radius="30">
-		<monster name="Deer" x="-3" y="1" z="7" spawntime="60" />
 		<monster name="Blue Butterfly" x="-1" y="9" z="7" spawntime="60" />
-		<monster name="Deer" x="11" y="21" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="532" centery="311" centerz="7" radius="1" />
 	<spawn centerx="516" centery="313" centerz="7" radius="1">
@@ -1540,7 +1527,6 @@
 	</spawn>
 	<spawn centerx="523" centery="325" centerz="7" radius="1" />
 	<spawn centerx="246" centery="352" centerz="7" radius="30">
-		<monster name="Deer" x="21" y="-11" z="7" spawntime="60" />
 		<monster name="Purple Butterfly" x="-12" y="6" z="7" spawntime="60" />
 		<monster name="Deer" x="-2" y="7" z="7" spawntime="60" />
 		<monster name="Purple Butterfly" x="21" y="7" z="7" spawntime="60" />
@@ -1638,98 +1624,7 @@
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="312" centery="207" centerz="8" radius="30">
-		<monster name="Abyssador" x="-28" y="-18" z="8" spawntime="60" />
 		<monster name="Demon" x="-4" y="-18" z="8" spawntime="60" />
-		<monster name="Amazone Burnmum" x="-29" y="-12" z="8" spawntime="60" />
-		<monster name="Angry Adventurer" x="-23" y="-12" z="8" spawntime="60" />
-		<monster name="Ashmunrah" x="-17" y="-12" z="8" spawntime="60" />
-		<monster name="Bane Bringer" x="-11" y="-12" z="8" spawntime="60" />
-		<monster name="Betrayed Wraith" x="-5" y="-12" z="8" spawntime="60" />
-		<monster name="Bloodpaw" x="1" y="-12" z="8" spawntime="60" />
-		<monster name="Braindeath" x="7" y="-12" z="8" spawntime="60" />
-		<monster name="Catatau" x="13" y="-12" z="8" spawntime="60" />
-		<monster name="Coveiro" x="19" y="-12" z="8" spawntime="60" />
-		<monster name="Amazone Dark Assassin" x="-29" y="-9" z="8" spawntime="60" />
-		<monster name="Angry Plant" x="-23" y="-9" z="8" spawntime="60" />
-		<monster name="Askarak Demon" x="-17" y="-9" z="8" spawntime="60" />
-		<monster name="Banshee" x="-11" y="-9" z="8" spawntime="60" />
-		<monster name="Bibby Bloodbath" x="-5" y="-9" z="8" spawntime="60" />
-		<monster name="Blue Djinn" x="1" y="-9" z="8" spawntime="60" />
-		<monster name="Brainfreezer" x="7" y="-9" z="8" spawntime="60" />
-		<monster name="champion Blightwalker" x="13" y="-9" z="8" spawntime="60" />
-		<monster name="Crawler" x="19" y="-9" z="8" spawntime="60" />
-		<monster name="Amazone Dark Witch" x="-29" y="-6" z="8" spawntime="60" />
-		<monster name="Annihilon" x="-23" y="-6" z="8" spawntime="60" />
-		<monster name="Askarak Lord" x="-17" y="-6" z="8" spawntime="60" />
-		<monster name="Barbaria" x="-11" y="-6" z="8" spawntime="60" />
-		<monster name="Big Boss Trolliver" x="-5" y="-6" z="8" spawntime="60" />
-		<monster name="Bog Frog" x="1" y="-6" z="8" spawntime="60" />
-		<monster name="breach brood" x="7" y="-6" z="8" spawntime="60" />
-		<monster name="Champion Demon" x="13" y="-6" z="8" spawntime="60" />
-		<monster name="Amazone Feudmaster" x="-29" y="-3" z="8" spawntime="60" />
-		<monster name="Ant Worker" x="-23" y="-3" z="8" spawntime="60" />
-		<monster name="Askarak Prince" x="-17" y="-3" z="8" spawntime="60" />
-		<monster name="Baron Of The Room" x="-11" y="-3" z="8" spawntime="60" />
-		<monster name="Black Knight" x="-5" y="-3" z="8" spawntime="60" />
-		<monster name="Bog Raider" x="1" y="-3" z="8" spawntime="60" />
-		<monster name="Brimstone Bug" x="7" y="-3" z="8" spawntime="60" />
-		<monster name="Chela" x="13" y="-3" z="8" spawntime="60" />
-		<monster name="Amazone Furywizard" x="-29" y="0" z="8" spawntime="60" />
-		<monster name="Apocalypse" x="-23" y="0" z="8" spawntime="60" />
-		<monster name="Assassin" x="-17" y="0" z="8" spawntime="60" />
-		<monster name="Battlemaster Zunzu" x="-11" y="0" z="8" spawntime="60" />
-		<monster name="Black Widow" x="-5" y="0" z="8" spawntime="60" />
-		<monster name="Bone Beast" x="1" y="0" z="8" spawntime="60" />
-		<monster name="brittle skeleton" x="7" y="0" z="8" spawntime="60" />
-		<monster name="Chief Dark Torturer" x="13" y="0" z="8" spawntime="60" />
-		<monster name="Amazone Guard" x="-29" y="3" z="8" spawntime="60" />
-		<monster name="Apprentice Sheng" x="-23" y="3" z="8" spawntime="60" />
-		<monster name="Avalanche" x="-17" y="3" z="8" spawntime="60" />
-		<monster name="Baylor" x="-11" y="3" z="8" spawntime="60" />
-		<monster name="Blazing Fire Elemental" x="-5" y="3" z="8" spawntime="60" />
-		<monster name="bonelord Guard" x="1" y="3" z="8" spawntime="60" />
-		<monster name="Broken Shaper" x="7" y="3" z="8" spawntime="60" />
-		<monster name="Chizzoron the Distorter" x="13" y="3" z="8" spawntime="60" />
-		<monster name="Amazone Plated Warrior" x="-29" y="6" z="8" spawntime="60" />
-		<monster name="Arachir the Ancient One" x="-23" y="6" z="8" spawntime="60" />
-		<monster name="Axeitus Headbanger" x="-17" y="6" z="8" spawntime="60" />
-		<monster name="Bazir" x="-11" y="6" z="8" spawntime="60" />
-		<monster name="Blightwalker" x="-5" y="6" z="8" spawntime="60" />
-		<monster name="Bones" x="1" y="6" z="8" spawntime="60" />
-		<monster name="Brutus Fire Elemental" x="7" y="6" z="8" spawntime="60" />
-		<monster name="Choking Fear" x="13" y="6" z="8" spawntime="60" />
-		<monster name="Amazone Wild Warrior" x="-29" y="9" z="8" spawntime="60" />
-		<monster name="Armadile" x="-23" y="9" z="8" spawntime="60" />
-		<monster name="Azerus" x="-17" y="9" z="8" spawntime="60" />
-		<monster name="Behemoth" x="-11" y="9" z="8" spawntime="60" />
-		<monster name="Blistering Fire Elemental" x="-5" y="9" z="8" spawntime="60" />
-		<monster name="Boogey" x="1" y="9" z="8" spawntime="60" />
-		<monster name="Bullwark" x="7" y="9" z="8" spawntime="60" />
-		<monster name="Cliff Strider" x="13" y="9" z="8" spawntime="60" />
-		<monster name="Amazone Witch" x="-29" y="12" z="8" spawntime="60" />
-		<monster name="Armed Skeleton" x="-23" y="12" z="8" spawntime="60" />
-		<monster name="Bad Dream" x="-17" y="12" z="8" spawntime="60" />
-		<monster name="Belmont's Revenge" x="-11" y="12" z="8" spawntime="60" />
-		<monster name="Blood Beast" x="-5" y="12" z="8" spawntime="60" />
-		<monster name="Bosser" x="1" y="12" z="8" spawntime="60" />
-		<monster name="Captain Jones" x="7" y="12" z="8" spawntime="60" />
-		<monster name="clomp" x="13" y="12" z="8" spawntime="60" />
-		<monster name="Amazone Worker" x="-29" y="15" z="8" spawntime="60" />
-		<monster name="Armenius" x="-23" y="15" z="8" spawntime="60" />
-		<monster name="Balghordan" x="-17" y="15" z="8" spawntime="60" />
-		<monster name="Berserker Chicken" x="-11" y="15" z="8" spawntime="60" />
-		<monster name="Blood Hand" x="-5" y="15" z="8" spawntime="60" />
-		<monster name="Bossing of Baiak" x="1" y="15" z="8" spawntime="60" />
-		<monster name="Castle" x="7" y="15" z="8" spawntime="60" />
-		<monster name="Conan o Barbaro" x="13" y="15" z="8" spawntime="60" />
-		<monster name="Ancient Scarab" x="-29" y="18" z="8" spawntime="60" />
-		<monster name="Asassin" x="-23" y="18" z="8" spawntime="60" />
-		<monster name="Bandit" x="-17" y="18" z="8" spawntime="60" />
-		<monster name="Beta" x="-11" y="18" z="8" spawntime="60" />
-		<monster name="Blood Priest" x="-5" y="18" z="8" spawntime="60" />
-		<monster name="Bovinus" x="1" y="18" z="8" spawntime="60" />
-		<monster name="Castle Demon" x="7" y="18" z="8" spawntime="60" />
-		<monster name="Countess Sorrow" x="13" y="18" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="245" centery="208" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
@@ -1806,6 +1701,49 @@
 	</spawn>
 	<spawn centerx="251" centery="225" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="268" centery="292" centerz="8" radius="30">
+		<monster name="Dragon Lord" x="-20" y="-26" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="29" y="-26" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="2" y="-25" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="15" y="-24" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-4" y="-22" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="23" y="-22" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-13" y="-21" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-27" y="-17" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="6" y="-17" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="28" y="-17" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-11" y="-15" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-4" y="-15" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-17" y="-14" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="13" y="-13" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="21" y="-12" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-20" y="-9" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-11" y="-9" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="2" y="-9" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-28" y="-7" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-2" y="-7" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="25" y="-4" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-15" y="-3" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="16" y="-3" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-5" y="-1" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="6" y="-1" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-21" y="0" z="8" spawntime="60" />
+		<monster name="Undead Dragon" x="22" y="2" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="28" y="4" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-11" y="5" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-24" y="7" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="5" y="8" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="13" y="8" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-4" y="11" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-13" y="12" z="8" spawntime="60" />
+		<monster name="Undead Dragon" x="22" y="12" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-27" y="13" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="29" y="15" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="9" y="16" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="19" y="16" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-16" y="17" z="8" spawntime="60" />
+		<monster name="Dragon Lord" x="-6" y="17" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="533" centery="310" centerz="8" radius="5">
 		<monster name="Wasp" x="1" y="-3" z="8" spawntime="60" />
