@@ -1079,8 +1079,12 @@
 		<npc name="Captain Cartoon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="532" centery="311" centerz="6" radius="1" />
-	<spawn centerx="516" centery="313" centerz="6" radius="1" />
-	<spawn centerx="539" centery="317" centerz="6" radius="1" />
+	<spawn centerx="516" centery="313" centerz="6" radius="1">
+		<npc name="Rashid" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="539" centery="317" centerz="6" radius="1">
+		<npc name="Naji" x="0" y="-1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="437" centery="329" centerz="6" radius="1">
 		<npc name="Captain Cartoon" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
@@ -1517,11 +1521,15 @@
 	<spawn centerx="272" centery="308" centerz="7" radius="30">
 		<monster name="Blue Butterfly" x="-1" y="9" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="532" centery="311" centerz="7" radius="1" />
+	<spawn centerx="532" centery="310" centerz="7" radius="1">
+		<npc name="Xodet" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="516" centery="313" centerz="7" radius="1">
 		<npc name="Karl" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="539" centery="316" centerz="7" radius="1" />
+	<spawn centerx="539" centery="316" centerz="7" radius="1">
+		<npc name="Benjamin" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="516" centery="318" centerz="7" radius="1">
 		<npc name="Bertha" x="1" y="1" z="7" spawntime="60" />
 	</spawn>

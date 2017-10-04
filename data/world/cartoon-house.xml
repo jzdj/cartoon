@@ -129,4 +129,11 @@
 	<house name="Unnamed House #2826" houseid="2826" entryx="240" entryy="338" entryz="4" rent="0" townid="1" size="64" />
 	<house name="Unnamed House #2827" houseid="2827" entryx="251" entryy="333" entryz="4" rent="0" townid="1" size="154" />
 	<house name="Unnamed House #2828" houseid="2828" entryx="251" entryy="340" entryz="4" rent="0" townid="1" size="124" />
+	<house name="Unnamed House #2829" houseid="2829" entryx="623" entryy="184" entryz="7" rent="0" townid="3" size="39" />
+	<house name="Unnamed House #2830" houseid="2830" entryx="545" entryy="305" entryz="7" rent="0" townid="3" size="22" />
+	<house name="Unnamed House #2831" houseid="2831" entryx="545" entryy="309" entryz="7" rent="0" townid="3" size="22" />
+	<house name="Unnamed House #2832" houseid="2832" entryx="545" entryy="314" entryz="7" rent="0" townid="3" size="22" />
+	<house name="Unnamed House #2833" houseid="2833" entryx="545" entryy="316" entryz="7" rent="0" townid="3" size="22" />
+	<house name="Unnamed House #2834" houseid="2834" entryx="545" entryy="321" entryz="7" rent="0" townid="3" size="22" />
+	<house name="Unnamed House #2835" houseid="2835" entryx="545" entryy="325" entryz="7" rent="0" townid="3" size="28" />
 </houses>
