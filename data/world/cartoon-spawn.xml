@@ -408,6 +408,12 @@
 	<spawn centerx="304" centery="138" centerz="3" radius="1">
 		<monster name="Training Monk" x="0" y="0" z="3" spawntime="90" />
 	</spawn>
+	<spawn centerx="232" centery="197" centerz="3" radius="1">
+		<npc name="Alexander" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="241" centery="197" centerz="3" radius="1">
+		<npc name="Luna" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
 	<spawn centerx="918" centery="221" centerz="3" radius="3" />
 	<spawn centerx="1654" centery="52" centerz="4" radius="1" />
 	<spawn centerx="1643" centery="57" centerz="4" radius="1" />
@@ -615,6 +621,12 @@
 	</spawn>
 	<spawn centerx="304" centery="138" centerz="4" radius="1">
 		<monster name="Training Monk" x="0" y="0" z="4" spawntime="90" />
+	</spawn>
+	<spawn centerx="232" centery="197" centerz="4" radius="1">
+		<npc name="Lailene" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="241" centery="197" centerz="4" radius="1">
+		<npc name="Yasir" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="1650" centery="51" centerz="5" radius="1">
 		<npc name="Riona" x="1" y="0" z="5" spawntime="20" />
@@ -1359,22 +1371,41 @@
 		<monster name="Yellow Butterfly" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="235" centery="152" centerz="7" radius="20">
+		<monster name="Young Troll" x="-12" y="-16" z="7" spawntime="60" />
 		<monster name="Young Troll" x="5" y="-16" z="7" spawntime="60" />
 		<monster name="Young Troll" x="-5" y="-15" z="7" spawntime="60" />
 		<monster name="Young Troll" x="-15" y="-13" z="7" spawntime="60" />
 		<monster name="Young Troll" x="-1" y="-9" z="7" spawntime="60" />
 		<monster name="Young Troll" x="4" y="-9" z="7" spawntime="60" />
 		<monster name="Rabbit" x="-2" y="-8" z="7" spawntime="60" />
+		<monster name="Young Troll" x="12" y="-8" z="7" spawntime="60" />
 		<monster name="Deer" x="16" y="-6" z="7" spawntime="60" />
+		<monster name="Young Troll" x="10" y="-4" z="7" spawntime="60" />
+		<monster name="Young Troll" x="-17" y="-3" z="7" spawntime="60" />
+		<monster name="Young Troll" x="-10" y="-3" z="7" spawntime="60" />
 		<monster name="Young Troll" x="17" y="-2" z="7" spawntime="60" />
+		<monster name="Young Troll" x="14" y="0" z="7" spawntime="60" />
 		<monster name="Young Troll" x="-19" y="3" z="7" spawntime="60" />
+		<npc name="Xodet" x="-3" y="3" z="7" spawntime="60" />
+		<npc name="Ariella" x="6" y="3" z="7" spawntime="60" />
 		<monster name="Young Troll" x="20" y="5" z="7" spawntime="60" />
 		<npc name="The Oracle Cartoon" x="2" y="6" z="7" spawntime="60" />
 		<monster name="Young Troll" x="-17" y="7" z="7" spawntime="60" />
-		<monster name="Yellow Butterfly" x="2" y="8" z="7" spawntime="60" />
+		<monster name="Young Troll" x="-14" y="8" z="7" spawntime="60" />
 		<monster name="Rabbit" x="-18" y="11" z="7" spawntime="60" />
+		<monster name="Young Troll" x="17" y="11" z="7" spawntime="60" />
+		<monster name="Young Troll" x="-17" y="12" z="7" spawntime="60" />
+		<npc name="Raffael" x="-3" y="12" z="7" spawntime="60" />
+		<npc name="Paulie" x="6" y="12" z="7" spawntime="60" />
 		<monster name="Yellow Butterfly" x="-16" y="14" z="7" spawntime="60" />
+		<monster name="Young Troll" x="-9" y="14" z="7" spawntime="60" />
+		<monster name="Yellow Butterfly" x="-10" y="17" z="7" spawntime="60" />
+		<monster name="Young Troll" x="11" y="17" z="7" spawntime="60" />
 		<monster name="Deer" x="15" y="17" z="7" spawntime="60" />
+		<monster name="Young Troll" x="-9" y="18" z="7" spawntime="60" />
+		<monster name="Young Troll" x="-5" y="18" z="7" spawntime="60" />
+		<monster name="Young Troll" x="20" y="19" z="7" spawntime="60" />
+		<monster name="Young Troll" x="9" y="20" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="255" centery="163" centerz="7" radius="20">
 		<monster name="Rabbit" x="1" y="-13" z="7" spawntime="60" />
@@ -1386,15 +1417,19 @@
 		<monster name="Young Troll" x="2" y="4" z="7" spawntime="60" />
 		<monster name="Young Troll" x="8" y="6" z="7" spawntime="60" />
 		<monster name="Rabbit" x="3" y="8" z="7" spawntime="60" />
+		<monster name="Young Troll" x="-18" y="10" z="7" spawntime="60" />
 		<monster name="Young Troll" x="13" y="10" z="7" spawntime="60" />
 		<monster name="Young Troll" x="-5" y="13" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="217" centery="171" centerz="7" radius="20">
+		<monster name="Young Troll" x="-5" y="-11" z="7" spawntime="60" />
 		<monster name="Young Troll" x="-4" y="-8" z="7" spawntime="60" />
 		<monster name="Deer" x="-6" y="-6" z="7" spawntime="60" />
 		<monster name="Young Troll" x="-3" y="-4" z="7" spawntime="60" />
 		<monster name="Rabbit" x="-6" y="-2" z="7" spawntime="60" />
+		<monster name="Young Troll" x="-4" y="0" z="7" spawntime="60" />
 		<monster name="Young Troll" x="3" y="3" z="7" spawntime="60" />
+		<monster name="Young Troll" x="10" y="3" z="7" spawntime="60" />
 		<monster name="Young Troll" x="-6" y="4" z="7" spawntime="60" />
 		<monster name="Rabbit" x="-3" y="4" z="7" spawntime="60" />
 		<monster name="Rabbit" x="8" y="4" z="7" spawntime="60" />
@@ -1402,9 +1437,12 @@
 		<monster name="Yellow Butterfly" x="-6" y="7" z="7" spawntime="60" />
 		<monster name="Young Troll" x="1" y="8" z="7" spawntime="60" />
 		<monster name="Young Troll" x="-4" y="9" z="7" spawntime="60" />
+		<monster name="Young Troll" x="-3" y="12" z="7" spawntime="60" />
 		<monster name="Blue Butterfly" x="-1" y="14" z="7" spawntime="60" />
 		<monster name="Yellow Butterfly" x="17" y="14" z="7" spawntime="60" />
+		<monster name="Young Troll" x="-5" y="18" z="7" spawntime="60" />
 		<monster name="Blue Butterfly" x="10" y="18" z="7" spawntime="60" />
+		<monster name="Young Troll" x="0" y="19" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="255" centery="176" centerz="7" radius="20">
 		<monster name="Deer" x="5" y="9" z="7" spawntime="60" />
@@ -1430,7 +1468,7 @@
 	</spawn>
 	<spawn centerx="233" centery="200" centerz="7" radius="5" />
 	<spawn centerx="243" centery="200" centerz="7" radius="5">
-		<npc name="Hanna" x="-2" y="-3" z="7" spawntime="60" />
+		<npc name="Hanna" x="-3" y="-3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="772" centery="200" centerz="7" radius="2" />
 	<spawn centerx="767" centery="204" centerz="7" radius="1">
@@ -1459,6 +1497,7 @@
 	<spawn centerx="938" centery="214" centerz="7" radius="1" />
 	<spawn centerx="908" centery="216" centerz="7" radius="5" />
 	<spawn centerx="221" centery="218" centerz="7" radius="30">
+		<monster name="Young Troll" x="-8" y="-25" z="7" spawntime="60" />
 		<monster name="Blue Butterfly" x="-4" y="-10" z="7" spawntime="60" />
 		<monster name="Blue Butterfly" x="7" y="-7" z="7" spawntime="60" />
 		<monster name="Red Butterfly" x="4" y="-6" z="7" spawntime="60" />
@@ -1517,9 +1556,15 @@
 		<monster name="Deer" x="12" y="8" z="7" spawntime="60" />
 		<monster name="Deer" x="3" y="17" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="513" centery="305" centerz="7" radius="1">
+		<monster name="Cat" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="204" centery="308" centerz="7" radius="30" />
 	<spawn centerx="272" centery="308" centerz="7" radius="30">
 		<monster name="Blue Butterfly" x="-1" y="9" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="539" centery="308" centerz="7" radius="1">
+		<monster name="Dog" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="532" centery="310" centerz="7" radius="1">
 		<npc name="Xodet" x="-1" y="0" z="7" spawntime="60" />
@@ -1533,7 +1578,13 @@
 	<spawn centerx="516" centery="318" centerz="7" radius="1">
 		<npc name="Bertha" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="516" centery="325" centerz="7" radius="1">
+		<monster name="Dog" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="523" centery="325" centerz="7" radius="1" />
+	<spawn centerx="536" centery="326" centerz="7" radius="1">
+		<monster name="Cat" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="246" centery="352" centerz="7" radius="30">
 		<monster name="Purple Butterfly" x="-12" y="6" z="7" spawntime="60" />
 		<monster name="Deer" x="-2" y="7" z="7" spawntime="60" />
@@ -1565,6 +1616,1001 @@
 	</spawn>
 	<spawn centerx="298" centery="863" centerz="7" radius="1">
 		<npc name="Gamon" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="265" centery="948" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="273" centery="949" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="281" centery="949" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="291" centery="953" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="115" centery="959" centerz="7" radius="30">
+		<monster name="Ogre Shaman" x="-14" y="-3" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="-24" y="1" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-3" y="8" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-20" y="11" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="1" y="13" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="10" y="15" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-9" y="17" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-18" y="21" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="1" y="21" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-9" y="26" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="13" y="26" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="275" centery="959" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="298" centery="962" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="266" centery="964" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="253" centery="965" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="286" centery="966" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="312" centery="966" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="246" centery="969" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="304" centery="969" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="73" centery="970" centerz="7" radius="30">
+		<monster name="Ogre Shaman" x="-8" y="-23" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="10" y="-20" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="-19" y="-16" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="-11" y="-14" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="3" y="-7" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="10" y="-1" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="9" y="9" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="3" y="10" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-4" y="11" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="0" y="22" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="13" y="22" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-12" y="23" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="236" centery="970" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="339" centery="970" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="286" centery="971" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="219" centery="972" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="267" centery="972" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="654" centery="975" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="317" centery="977" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="610" centery="977" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="251" centery="978" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="274" centery="978" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="298" centery="979" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="489" centery="979" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="206" centery="980" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="237" centery="980" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="510" centery="980" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="514" centery="980" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="519" centery="980" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="481" centery="981" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="656" centery="981" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="492" centery="982" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="283" centery="983" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="606" centery="983" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="334" centery="984" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="485" centery="984" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="615" centery="985" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="114" centery="986" centerz="7" radius="30">
+		<monster name="Ogre Savage" x="16" y="6" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="30" y="6" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-8" y="7" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-1" y="7" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-8" y="15" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-16" y="16" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="25" y="16" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="15" y="19" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-22" y="20" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="11" y="20" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-6" y="28" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="626" centery="986" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="263" centery="987" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="307" centery="987" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="321" centery="987" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="638" centery="987" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="150" centery="989" centerz="7" radius="30">
+		<monster name="Ogre Savage" x="-2" y="-8" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="12" y="-6" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="3" y="4" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="19" y="4" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="1" y="11" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="344" centery="989" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="328" centery="990" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="649" centery="990" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="499" centery="991" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="507" centery="992" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="314" centery="993" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="494" centery="993" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="521" centery="993" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="481" centery="994" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="510" centery="994" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="276" centery="995" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="504" centery="996" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="617" centery="996" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="656" centery="997" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="485" centery="998" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="263" centery="999" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="293" centery="999" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="303" centery="999" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="338" centery="999" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="475" centery="999" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="624" centery="999" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="507" centery="1000" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="465" centery="1001" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="526" centery="1001" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="482" centery="1002" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="606" centery="1002" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="648" centery="1003" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="463" centery="1004" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="504" centery="1004" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="633" centery="1004" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="473" centery="1006" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="623" centery="1006" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="505" centery="1007" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="322" centery="1008" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="536" centery="1008" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="612" centery="1008" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="291" centery="1009" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="462" centery="1009" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="480" centery="1009" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="531" centery="1009" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="525" centery="1010" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="348" centery="1011" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="491" centery="1011" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="501" centery="1011" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="657" centery="1011" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="277" centery="1013" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="646" centery="1013" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="318" centery="1014" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="469" centery="1014" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="505" centery="1014" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="529" centery="1014" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="338" centery="1015" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="357" centery="1015" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="487" centery="1015" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="295" centery="1016" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="513" centery="1016" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="525" centery="1019" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="109" centery="1020" centerz="7" radius="30">
+		<monster name="Ogre Savage" x="-27" y="-10" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-11" y="-1" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-19" y="3" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-30" y="5" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-1" y="7" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-23" y="10" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="-16" y="10" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="8" y="15" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="0" y="19" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-21" y="23" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="-11" y="23" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="596" centery="1021" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="656" centery="1021" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="60" centery="1022" centerz="7" radius="30">
+		<monster name="Ogre Savage" x="-5" y="-20" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="3" y="-11" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="6" y="8" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-22" y="10" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-3" y="12" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-12" y="14" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="-24" y="18" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-16" y="21" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="16" y="28" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="280" centery="1022" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="493" centery="1022" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="499" centery="1024" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="610" centery="1025" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="616" centery="1025" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="339" centery="1026" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="511" centery="1026" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="308" centery="1028" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="327" centery="1029" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="296" centery="1031" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="642" centery="1031" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="480" centery="1032" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="505" centery="1032" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="526" centery="1032" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="270" centery="1033" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="303" centery="1034" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="470" centery="1034" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="624" centery="1034" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="495" centery="1035" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="518" centery="1035" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="600" centery="1035" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="657" centery="1035" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="518" centery="1038" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="330" centery="1039" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="344" centery="1039" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="350" centery="1039" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="536" centery="1040" centerz="7" radius="1">
+		<monster name="Undead Dragon" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Medusa" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="631" centery="1040" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="277" centery="1041" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="467" centery="1041" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="538" centery="1041" centerz="7" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Medusa" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Medusa" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="533" centery="1042" centerz="7" radius="1">
+		<monster name="Demon" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Banshee" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Betrayed Wraith" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="296" centery="1043" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="536" centery="1043" centerz="7" radius="1">
+		<monster name="Blightwalker" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Cliff Strider" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Dark Faun" x="1" y="0" z="7" spawntime="1024" />
+	</spawn>
+	<spawn centerx="539" centery="1043" centerz="7" radius="1">
+		<monster name="Hellhound" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Undead Dragon" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Nightmare" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="656" centery="1043" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="662" centery="1043" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="338" centery="1045" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="472" centery="1045" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="497" centery="1045" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="511" centery="1045" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="536" centery="1045" centerz="7" radius="1">
+		<monster name="Bonebeast" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Nightmare" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="620" centery="1046" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="313" centery="1047" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="489" centery="1048" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Dark Faun" x="1" y="0" z="7" spawntime="1024" />
+	</spawn>
+	<spawn centerx="532" centery="1048" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="477" centery="1049" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="603" centery="1049" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="357" centery="1051" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="639" centery="1052" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="313" centery="1053" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="480" centery="1054" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="619" centery="1054" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="631" centery="1054" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="665" centery="1054" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="304" centery="1056" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="476" centery="1057" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="527" centery="1058" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="604" centery="1059" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="285" centery="1060" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="303" centery="1061" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="506" centery="1061" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="111" centery="1063" centerz="7" radius="30">
+		<monster name="Ogre Savage" x="-2" y="-9" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-29" y="-6" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-1" y="-5" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-20" y="3" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="16" y="9" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-4" y="10" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="11" y="10" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-16" y="14" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="4" y="14" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="-3" y="17" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="667" centery="1063" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="61" centery="1064" centerz="7" radius="30">
+		<monster name="Ogre Brute" x="15" y="5" z="7" spawntime="60" />
+		<monster name="Ogre Savage" x="-4" y="6" z="7" spawntime="60" />
+		<monster name="Ogre Shaman" x="8" y="7" z="7" spawntime="60" />
+		<monster name="Ogre Brute" x="-12" y="8" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="515" centery="1064" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="330" centery="1065" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="353" centery="1065" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="504" centery="1065" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="289" centery="1066" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="496" centery="1066" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="650" centery="1066" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="359" centery="1068" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="484" centery="1069" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="321" centery="1070" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="527" centery="1070" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="483" centery="1071" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="347" centery="1074" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="527" centery="1074" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="496" centery="1075" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="620" centery="1075" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="674" centery="1075" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="478" centery="1076" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="511" centery="1076" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="612" centery="1076" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="324" centery="1077" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="629" centery="1077" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="482" centery="1078" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="517" centery="1078" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="529" centery="1078" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="270" centery="1079" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="494" centery="1079" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="283" centery="1080" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="310" centery="1080" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="349" centery="1080" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="512" centery="1081" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="497" centery="1083" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="647" centery="1083" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="664" centery="1083" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="623" centery="1084" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="336" centery="1085" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="599" centery="1088" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="487" centery="1090" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="613" centery="1090" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="298" centery="1091" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="635" centery="1091" centerz="7" radius="1">
+		<monster name="Boogy" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="313" centery="1093" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="241" centery="1094" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="287" centery="1095" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="276" centery="1096" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="300" centery="1097" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="491" centery="1098" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="487" centery="1099" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="513" centery="1099" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="249" centery="1100" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="540" centery="1102" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="334" centery="1103" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="458" centery="1103" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="463" centery="1103" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="330" centery="1104" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="515" centery="1104" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="519" centery="1104" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="261" centery="1105" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="466" centery="1105" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="479" centery="1105" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="486" centery="1105" centerz="7" radius="1">
+		<monster name="Dark Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="533" centery="1107" centerz="7" radius="1">
+		<monster name="Faun" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="277" centery="1110" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="292" centery="1110" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="328" centery="1112" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="271" centery="1113" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="330" centery="1117" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="308" centery="1122" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="343" centery="1123" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="307" centery="1131" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="321" centery="1131" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="334" centery="1133" centerz="7" radius="1">
+		<monster name="Orclops Doomhauler" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="326" centery="1139" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="314" centery="1147" centerz="7" radius="1">
+		<monster name="Orclops Ravager" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1326" centery="20" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1328" centery="26" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1281" centery="28" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1302" centery="30" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1300" centery="31" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1274" centery="32" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1299" centery="35" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1322" centery="39" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1275" centery="40" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1316" centery="40" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1315" centery="42" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1318" centery="42" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1208" centery="47" centerz="8" radius="1">
+		<monster name="Stampor" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1214" centery="55" centerz="8" radius="1">
+		<monster name="Stampor" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1305" centery="55" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1207" centery="56" centerz="8" radius="1">
+		<monster name="Stampor" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1303" centery="57" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1266" centery="58" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1306" centery="58" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1264" centery="59" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1325" centery="60" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1222" centery="62" centerz="8" radius="2">
+		<monster name="Stampor" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Stampor" x="1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1246" centery="63" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1280" centery="63" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1282" centery="63" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1294" centery="63" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1324" centery="63" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1207" centery="65" centerz="8" radius="1">
+		<monster name="Stampor" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1243" centery="65" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="65" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1246" centery="66" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="67" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="69" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1274" centery="70" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Stampor" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1283" centery="70" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1226" centery="72" centerz="8" radius="1">
+		<monster name="Stampor" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1309" centery="73" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1312" centery="73" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1307" centery="75" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1310" centery="75" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1209" centery="76" centerz="8" radius="1">
+		<monster name="Stampor" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1275" centery="81" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1268" centery="83" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1220" centery="84" centerz="8" radius="1">
+		<monster name="Stampor" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1281" centery="85" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1212" centery="86" centerz="8" radius="1">
+		<monster name="Stampor" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1264" centery="88" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1276" centery="89" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1234" centery="91" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1236" centery="91" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1236" centery="93" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1307" centery="96" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1305" centery="97" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1289" centery="103" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1288" centery="106" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1283" centery="113" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1263" centery="114" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1280" centery="114" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1248" centery="118" centerz="8" radius="1">
+		<monster name="Stampor" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="402" centery="147" centerz="8" radius="7">
 		<monster name="Training Monk" x="-4" y="-6" z="8" spawntime="90" />
@@ -1632,7 +2678,11 @@
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="312" centery="207" centerz="8" radius="30">
-		<monster name="Demon" x="-4" y="-18" z="8" spawntime="60" />
+		<monster name="Stampor" x="-29" y="-18" z="8" spawntime="60" />
+		<monster name="Ogre Brute" x="-26" y="-18" z="8" spawntime="60" />
+		<monster name="Orclops Doomhauler" x="-23" y="-18" z="8" spawntime="60" />
+		<monster name="Dark Faun" x="-20" y="-18" z="8" spawntime="60" />
+		<monster name="Boogy" x="-17" y="-18" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="245" centery="208" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
@@ -1758,6 +2808,143 @@
 		<monster name="Wasp" x="3" y="-3" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="526" centery="322" centerz="8" radius="1" />
+	<spawn centerx="1290" centery="19" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1288" centery="21" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1263" centery="24" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1242" centery="25" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1322" centery="26" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1245" centery="27" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1289" centery="27" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1252" centery="30" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1287" centery="30" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1291" centery="32" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1257" centery="33" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1249" centery="34" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1305" centery="35" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1253" centery="37" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1305" centery="39" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1307" centery="40" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1291" centery="47" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1320" centery="47" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1313" centery="48" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1288" centery="49" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1254" centery="52" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1315" centery="53" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1254" centery="55" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1251" centery="56" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1256" centery="56" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1313" centery="57" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1318" centery="58" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1260" centery="68" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1268" centery="70" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1252" centery="71" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1248" centery="72" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1250" centery="76" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1286" centery="85" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1273" centery="95" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1286" centery="97" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1239" centery="98" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1270" centery="98" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1263" centery="100" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1278" centery="101" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1282" centery="105" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1275" centery="107" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1264" centery="108" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1227" centery="109" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Stampor" x="1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1271" centery="109" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1227" centery="111" centerz="9" radius="1">
+		<monster name="Stampor" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="228" centery="139" centerz="9" radius="1" />
 	<spawn centerx="402" centery="147" centerz="9" radius="7">
 		<monster name="Training Monk" x="-4" y="-7" z="9" spawntime="90" />
 		<monster name="Training Monk" x="4" y="-7" z="9" spawntime="90" />
@@ -1775,6 +2962,30 @@
 		<monster name="Training Monk" x="4" y="5" z="9" spawntime="90" />
 		<monster name="Training Monk" x="-4" y="7" z="9" spawntime="90" />
 		<monster name="Training Monk" x="4" y="7" z="9" spawntime="90" />
+	</spawn>
+	<spawn centerx="221" centery="152" centerz="9" radius="1">
+		<monster name="Orc" x="0" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="217" centery="156" centerz="9" radius="30">
+		<monster name="Orc" x="12" y="-19" z="9" spawntime="60" />
+		<monster name="Orc" x="3" y="-8" z="9" spawntime="60" />
+		<monster name="Orc" x="0" y="3" z="9" spawntime="60" />
+		<monster name="Orc" x="7" y="4" z="9" spawntime="60" />
+		<monster name="Orc" x="-13" y="5" z="9" spawntime="60" />
+		<monster name="Orc" x="-14" y="11" z="9" spawntime="60" />
+		<monster name="Orc" x="10" y="12" z="9" spawntime="60" />
+		<monster name="Orc" x="3" y="14" z="9" spawntime="60" />
+		<monster name="Orc" x="7" y="16" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="223" centery="160" centerz="9" radius="1" />
+	<spawn centerx="202" centery="161" centerz="9" radius="1" />
+	<spawn centerx="219" centery="164" centerz="9" radius="1" />
+	<spawn centerx="204" centery="165" centerz="9" radius="1" />
+	<spawn centerx="228" centery="166" centerz="9" radius="1" />
+	<spawn centerx="204" centery="168" centerz="9" radius="1" />
+	<spawn centerx="222" centery="174" centerz="9" radius="1" />
+	<spawn centerx="230" centery="141" centerz="10" radius="1">
+		<monster name="Orc Shaman" x="1" y="-1" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="402" centery="149" centerz="10" radius="7">
 		<monster name="Training Monk" x="-4" y="-7" z="10" spawntime="90" />
@@ -1794,6 +3005,11 @@
 		<monster name="Training Monk" x="-4" y="7" z="10" spawntime="90" />
 		<monster name="Training Monk" x="4" y="7" z="10" spawntime="90" />
 	</spawn>
+	<spawn centerx="249" centery="158" centerz="10" radius="30">
+		<monster name="Orc" x="-27" y="17" z="10" spawntime="60" />
+		<monster name="Orc" x="-24" y="17" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="223" centery="173" centerz="10" radius="1" />
 	<spawn centerx="235" centery="217" centerz="10" radius="1">
 		<npc name="Lector" x="-1" y="0" z="10" spawntime="60" />
 	</spawn>
@@ -1945,6 +3161,47 @@
 		<monster name="Training Monk" x="-1" y="-1" z="10" spawntime="60" />
 		<monster name="Training Monk" x="1" y="-1" z="10" spawntime="60" />
 	</spawn>
+	<spawn centerx="327" centery="245" centerz="10" radius="30">
+		<monster name="Demon" x="-4" y="-23" z="10" spawntime="60" />
+		<monster name="Hellhound" x="13" y="-19" z="10" spawntime="60" />
+		<monster name="Demon" x="-19" y="-18" z="10" spawntime="60" />
+		<monster name="Brimstone Bug" x="-29" y="-17" z="10" spawntime="60" />
+		<monster name="Undead Dragon" x="29" y="-15" z="10" spawntime="60" />
+		<monster name="Demon" x="-12" y="-13" z="10" spawntime="60" />
+		<monster name="Demon" x="-5" y="-11" z="10" spawntime="60" />
+		<monster name="Hellhound" x="3" y="-10" z="10" spawntime="60" />
+		<monster name="Hellhound" x="19" y="-10" z="10" spawntime="60" />
+		<monster name="Demon" x="-21" y="-3" z="10" spawntime="60" />
+		<monster name="Demon" x="-29" y="-1" z="10" spawntime="60" />
+		<monster name="Hellhound" x="3" y="1" z="10" spawntime="60" />
+		<monster name="Undead Dragon" x="29" y="2" z="10" spawntime="60" />
+		<monster name="Demon" x="-5" y="3" z="10" spawntime="60" />
+		<monster name="Demon" x="-13" y="6" z="10" spawntime="60" />
+		<monster name="Hellhound" x="13" y="9" z="10" spawntime="60" />
+		<monster name="Demon" x="-19" y="10" z="10" spawntime="60" />
+		<monster name="Demon" x="-29" y="13" z="10" spawntime="60" />
+		<monster name="Hellhound" x="19" y="15" z="10" spawntime="60" />
+		<monster name="Demon" x="-12" y="20" z="10" spawntime="60" />
+		<monster name="Hellhound" x="3" y="22" z="10" spawntime="60" />
+		<monster name="Demon" x="-21" y="23" z="10" spawntime="60" />
+		<monster name="Demon" x="-4" y="23" z="10" spawntime="60" />
+		<monster name="Undead Dragon" x="29" y="23" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="228" centery="139" centerz="11" radius="1">
+		<monster name="Orc Shaman" x="-1" y="1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="227" centery="145" centerz="11" radius="1">
+		<monster name="Orc Shaman" x="-1" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="234" centery="146" centerz="11" radius="1">
+		<monster name="Orc Shaman" x="0" y="-1" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="246" centery="147" centerz="11" radius="1">
+		<monster name="Orc Marauder" x="1" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="256" centery="149" centerz="11" radius="1" />
+	<spawn centerx="272" centery="150" centerz="11" radius="1" />
+	<spawn centerx="265" centery="151" centerz="11" radius="1" />
 	<spawn centerx="402" centery="151" centerz="11" radius="7">
 		<monster name="Training Monk" x="-4" y="-7" z="11" spawntime="90" />
 		<monster name="Training Monk" x="4" y="-7" z="11" spawntime="90" />
@@ -1963,6 +3220,23 @@
 		<monster name="Training Monk" x="-4" y="7" z="11" spawntime="90" />
 		<monster name="Training Monk" x="4" y="7" z="11" spawntime="90" />
 	</spawn>
+	<spawn centerx="251" centery="158" centerz="11" radius="30">
+		<monster name="Orc Leader" x="0" y="-11" z="11" spawntime="60" />
+		<monster name="Orc Marauder" x="7" y="-8" z="11" spawntime="60" />
+		<monster name="Orc" x="8" y="-1" z="11" spawntime="60" />
+		<monster name="Orc Shaman" x="8" y="1" z="11" spawntime="60" />
+		<monster name="Orc Shaman" x="20" y="1" z="11" spawntime="60" />
+		<monster name="Orc Berserker" x="-24" y="8" z="11" spawntime="60" />
+		<monster name="Orc Berserker" x="9" y="8" z="11" spawntime="60" />
+		<monster name="Orc Berserker" x="-27" y="10" z="11" spawntime="60" />
+		<monster name="Orc Berserker" x="9" y="11" z="11" spawntime="60" />
+		<monster name="Orc Shaman" x="24" y="12" z="11" spawntime="60" />
+		<monster name="Orc Berserker" x="24" y="14" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="259" centery="162" centerz="11" radius="1" />
+	<spawn centerx="271" centery="163" centerz="11" radius="1" />
+	<spawn centerx="225" centery="168" centerz="11" radius="1" />
+	<spawn centerx="225" centery="172" centerz="11" radius="1" />
 	<spawn centerx="248" centery="205" centerz="11" radius="1">
 		<npc name="Lector" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
